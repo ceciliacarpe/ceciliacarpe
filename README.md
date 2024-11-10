@@ -13,18 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">
-Hi there, I'm Cecilia👋
-</h3>
 
-### 🤝 Connect with me: 
-<a href="https://www.linkedin.com/in/ceciliacp"><img align="left" src="https://raw.githubusercontent.com/ceciliacp/ceciliacp/main/images/linkedin.svg" alt="Cecilia | LinkedIn" width="21px"/></a>
+## Hi there, I'm Cecilia👋
 
-##🔭 I’m currently studying computer engineering at UGR
 
-##🌱 I’m currently learning Kotlin
+- 🔭 I’m currently studying computer engineering at UGR
 
-##📫 How to reach me: ceciliacarpe@correo.ugr.es or ceciliacp156@gmail.com
+- 🌱 I’m currently learning Kotlin
+
+- 📫 How to reach me: ceciliacarpe@correo.ugr.es or ceciliacp156@gmail.com
 
 ## 📈 GitHub Stats 
 
