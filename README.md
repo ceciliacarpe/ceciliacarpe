@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 -->
 
 
-## Hi there, I'm Cecilia👋
+## Hi there, I'm Cecilia 👋
 
+- 🎓 Computer Engineering graduate from the University of Granada (UGR)
+- 💡 I enjoy building apps from scratch, from idea to final product
+- 🎨 I like designing and drawing my own interfaces, combining code and creativity
+- 🚀 In my free time, I work on personal projects to keep learning and improving
+- 📫 How to reach me: ceciliacarpe@correo.ugr.es | ceciliacp615@gmail.com
 
-- 🔭 I’m currently studying computer engineering at UGR
-
-- 🌱 I’m currently learning Kotlin
-
-- 📫 How to reach me: ceciliacarpe@correo.ugr.es or ceciliacp156@gmail.com
 
 ## 📈 GitHub Stats 
 
