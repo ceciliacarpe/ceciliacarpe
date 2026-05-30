@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 💡 I enjoy building apps from scratch, from idea to final product
 - 🎨 I like designing and drawing my own interfaces, combining code and creativity
 - 🚀 In my free time, I work on personal projects to keep learning and improving
-- 📫 How to reach me: ceciliacarpe@correo.ugr.es | ceciliacp615@gmail.com
+- 📫 How to reach me: ceciliacp615@gmail.com
 
 
 ## 📈 GitHub Stats 
