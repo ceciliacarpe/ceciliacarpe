@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## 📈 GitHub Stats 
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=ceciliacarpe)](https://github.com/ceciliacarpe)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ceciliacarpe&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceciliacarpe&layout=compact)](https://github.com/yushi1007)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceciliacarpe&layout=compact)
 
